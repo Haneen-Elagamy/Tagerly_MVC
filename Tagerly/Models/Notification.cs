@@ -13,6 +13,6 @@ namespace Tagerly.Models
         public bool IsRead { get; set; }
 
         //Navigation property
-        public ApplicationUser ApplicationUser { get; set; }
+        public ApplicationUser User { get; set; }
     }
 }

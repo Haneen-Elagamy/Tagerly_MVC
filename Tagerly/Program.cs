@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Tagerly.DbContexts;
+
 namespace Tagerly
 {
     public class Program
@@ -8,6 +11,12 @@ namespace Tagerly
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<TagerlyDbContext>(options =>
+            {
+                //options.UseSqlServer("Data Source=.;Initial Catalog=Organization;Integrated Security=True;Encrypt=False;Trust Server Certificate=True");
+                options.UseSqlServer(builder.Configuration.GetConnectionString("CS"));
+            });
 
             var app = builder.Build();
 

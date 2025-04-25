@@ -11,7 +11,7 @@ namespace Tagerly.Models
        public string UserId { get; set; }
 
        public ICollection<Product> Products { get; set; }
-       public ApplicationUser ApplicationUser { get; set; }
+       public ApplicationUser User { get; set; }
 
 
 
