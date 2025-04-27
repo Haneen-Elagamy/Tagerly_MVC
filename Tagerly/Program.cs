@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Tagerly.DbContexts;
+using Tagerly.DataAccess;
 
 namespace Tagerly
 {
