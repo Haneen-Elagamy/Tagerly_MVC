@@ -1,101 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Net DEPI\\Tagerly_MVC\\",
+  "WorkspaceRootPath": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\favouriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\favouriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\favouriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\tagerlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\tagerlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\tagerlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\tagerly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\tagerly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\tagerly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\migrations\\20250424235958_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\migrations\\20250424235958_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\migrations\\20250424235958_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\profileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\profileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\profileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\dataaccess\\configurationclasses\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\dataaccess\\configurationclasses\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|d:\\.net depi\\tagerly_mvc\\tagerly\\models\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|e:\\depi.net\\tagerly\\tagerly_mvc\\tagerly\\models\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13003974-0E72-40FD-9A24-E8DA32E841AA}|Tagerly\\Tagerly.csproj|solutionrelative:tagerly\\models\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,8 +110,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -118,19 +126,36 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tagerly\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tagerly\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAIwHgBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T18:47:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TagerlyDbContext.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\TagerlyDbContext.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\TagerlyDbContext.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\TagerlyDbContext.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\TagerlyDbContext.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\TagerlyDbContext.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\TagerlyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,50 +164,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationUserConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ApplicationUserConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ApplicationUserConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\ApplicationUserConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ApplicationUserConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ApplicationUserConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\ApplicationUserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T22:53:10.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T22:53:10.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
+              "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
+              "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:05:27.112Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
-              "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
-              "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\CartConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:05:27.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:09:13.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
-              "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:09:13.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FavouriteConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\FavouriteConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\FavouriteConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\FavouriteConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\FavouriteConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\FavouriteConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\FavouriteConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,24 +213,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tagerly",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Tagerly.csproj",
+              "DocumentIndex": 6,
+              "Title": "Tagerly.csproj",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Tagerly.csproj",
               "RelativeDocumentMoniker": "Tagerly\\Tagerly.csproj",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Tagerly.csproj",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Tagerly.csproj",
               "RelativeToolTip": "Tagerly\\Tagerly.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T22:40:36.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T22:40:36.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Cart.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Cart.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Cart.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Cart.cs",
               "RelativeToolTip": "Tagerly\\Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,54 +237,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\OrderConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\OrderConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:17:47.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:17:47.167Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
+              "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
+              "ViewState": "AgIAAAMAAABAMzMzM7MiwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:30:35.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "PaymentConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
-              "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
-              "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\PaymentConfiguration.cs",
-              "ViewState": "AgIAAAMAAABAMzMzM7MiwBUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:30:35.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "NotificationConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\NotificationConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\NotificationConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\NotificationConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\NotificationConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\NotificationConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\NotificationConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:31:02.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:31:02.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20250424235958_initialMigration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Migrations\\20250424235958_initialMigration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Migrations\\20250424235958_initialMigration.cs",
               "RelativeDocumentMoniker": "Tagerly\\Migrations\\20250424235958_initialMigration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Migrations\\20250424235958_initialMigration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Migrations\\20250424235958_initialMigration.cs",
               "RelativeToolTip": "Tagerly\\Migrations\\20250424235958_initialMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,37 +285,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Program.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Program.cs",
               "RelativeDocumentMoniker": "Tagerly\\Program.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Program.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Program.cs",
               "RelativeToolTip": "Tagerly\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:45:49.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:45:49.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProfileConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProfileConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProfileConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\ProfileConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProfileConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProfileConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\ProfileConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:29:34.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:29:34.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\appsettings.json",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\appsettings.json",
               "RelativeDocumentMoniker": "Tagerly\\appsettings.json",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\appsettings.json",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\appsettings.json",
               "RelativeToolTip": "Tagerly\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -309,37 +321,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "OrderDetailsConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderDetailsConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderDetailsConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\OrderDetailsConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderDetailsConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\OrderDetailsConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\OrderDetailsConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:24:26.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:24:26.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProductConfiguration.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Tagerly\\DataAccess\\ConfigurationClasses\\ProductConfiguration.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProductConfiguration.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\DataAccess\\ConfigurationClasses\\ProductConfiguration.cs",
               "RelativeToolTip": "Tagerly\\DataAccess\\ConfigurationClasses\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:26:45.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:26:45.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Payment.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Payment.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Payment.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Payment.cs",
               "RelativeToolTip": "Tagerly\\Models\\Payment.cs",
               "ViewState": "AgIAAAQAAABwzMzMzMw1wBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Order.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Order.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Order.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Order.cs",
               "RelativeToolTip": "Tagerly\\Models\\Order.cs",
               "ViewState": "AgIAAAMAAABwMTMzMzMbwA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Product.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Product.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Product.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Product.cs",
               "RelativeToolTip": "Tagerly\\Models\\Product.cs",
               "ViewState": "AgIAAAcAAAAAMjMzMzMvwAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,11 +381,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "Tagerly\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -383,11 +393,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Notification.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Notification.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Notification.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Notification.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Notification.cs",
               "RelativeToolTip": "Tagerly\\Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +405,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Category.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Category.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Category.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Category.cs",
               "RelativeToolTip": "Tagerly\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\OrderDetail.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\OrderDetail.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\OrderDetail.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\OrderDetail.cs",
               "RelativeToolTip": "Tagerly\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAADw/////39JwBIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Favourite.cs",
-              "DocumentMoniker": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Favourite.cs",
+              "DocumentMoniker": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Favourite.cs",
               "RelativeDocumentMoniker": "Tagerly\\Models\\Favourite.cs",
-              "ToolTip": "D:\\.Net DEPI\\Tagerly_MVC\\Tagerly\\Models\\Favourite.cs",
+              "ToolTip": "E:\\DEPI.net\\Tagerly\\Tagerly_MVC\\Tagerly\\Models\\Favourite.cs",
               "RelativeToolTip": "Tagerly\\Models\\Favourite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
